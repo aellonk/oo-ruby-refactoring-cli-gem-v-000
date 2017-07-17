@@ -18,7 +18,7 @@
 [MP4](Find learn s3 source?)
 
 
-## Summery
+## Summary
 
 * what do we mean by anti-patterns
 * explain our gem functionality
